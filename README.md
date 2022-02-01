@@ -1,4 +1,4 @@
-# maximo
+# sample
 
 A new Flutter project.
 
