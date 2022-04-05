@@ -1,4 +1,4 @@
-# maximo
+# maxpom
 
 A new Flutter project.
 
